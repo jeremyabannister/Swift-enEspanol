@@ -9,4 +9,12 @@ public typealias Secuencia = Sequence
 
 extension Secuencia {
     public typealias Elemento = Element
+    
+    public func contiene(
+        donde predicado: (Elemento)throws->Bool
+    ) rethrows -> Bool {
+        
+        try self.contains(where: predicado)
+    }
+    
 }
