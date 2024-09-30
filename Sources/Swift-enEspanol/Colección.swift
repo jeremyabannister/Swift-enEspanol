@@ -1,6 +1,6 @@
 //
-//  Collection_EnEspanol.swift
-//  
+//  Colección.swift
+//
 //
 //  Created by Jeremy Bannister on 2/1/21.
 //

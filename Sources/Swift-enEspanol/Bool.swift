@@ -1,5 +1,5 @@
 //
-//  Bool_EnEspanol.swift
+//  Bool.swift
 //  
 //
 //  Created by Jeremy Bannister on 2/5/20.
