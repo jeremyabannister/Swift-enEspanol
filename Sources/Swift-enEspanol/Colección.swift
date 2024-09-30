@@ -8,9 +8,6 @@
 public typealias Colección = Collection
 
 extension Colección {
-    
-    public typealias Elemento = Element
-    
     public var primero: Elemento? {
         self.first
     }

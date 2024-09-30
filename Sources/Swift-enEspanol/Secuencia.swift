@@ -6,3 +6,7 @@
 //
 
 public typealias Secuencia = Sequence
+
+extension Secuencia {
+    public typealias Elemento = Element
+}
